@@ -1,0 +1,82 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.11 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/Django-1.9.7-py2.7.egg" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/xlrd-1.0.0-py2.7.egg" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/feedparser-5.2.1-py2.7.egg!/" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/PyDejavu-0.1.3-py2.7.egg!/" />
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/pydub-0.18.0-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/networkx-1.11-py2.7.egg" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/decorator-4.0.11-py2.7.egg" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 (C:\Python34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="C:\Python34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python34/Lib/site-packages/feedparser-5.2.1-py3.4.egg!/" />
+            <root type="simple" url="jar://C:/Python34/Lib/site-packages/sgmllib3k-1.0.0-py3.4.egg!/" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages/six-1.10.0-py3.4.egg" />
+            <root type="simple" url="jar://C:/Python34/Lib/site-packages/PyDejavu-0.1.3-py3.4.egg!/" />
+            <root type="simple" url="file://C:/Python34/DLLs" />
+            <root type="simple" url="file://C:/Python34/Lib" />
+            <root type="simple" url="file://C:/Python34" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1442825926" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 (F:\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="F:\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://F:/Python35/DLLs" />
+            <root type="simple" url="file://F:/Python35/Lib" />
+            <root type="simple" url="file://F:/Python35" />
+            <root type="simple" url="file://F:/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1162022518" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
