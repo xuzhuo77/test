@@ -51,13 +51,20 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="F:\ProgramData\Anaconda3\python.exe" value="true" />
         <entry key="F:\Python35\python.exe" value="true" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="C:\Python27\python.exe" value="true" />
+        <entry key="F:\ProgramData\Anaconda3\python.exe" value="true" />
         <entry key="F:\Python35\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="F:\ProgramData\Anaconda3\python.exe" value="false" />
       </map>
     </option>
   </component>
